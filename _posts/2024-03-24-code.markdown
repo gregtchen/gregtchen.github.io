@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Hello there!"
+date:   2024-03-24 20:27:10 -0700
+categories: jekyll update
+---
+
+
+Welcome to my first post.
+
+Here I want to share code
+
+```javascript
+
+const myfunc = () => {
+  console.log("hello world!");
+}
+
+```
